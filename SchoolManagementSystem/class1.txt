@@ -1,0 +1,32 @@
+Stud ID			Student Name                    Age                Email ID
+
+16K-3621 	        Muhammad Musawir     		22		16K-3621@nu.edu.pk		  
+16K-3622 		Muhammad Hussain		21		16K-3622@nu.edu.pk
+16K-3623 		Kiran Tanweer			13		16K-3623@nu.edu.pk
+16K-3624 		Abeer Siddiqui			14		16K-3624@nu.edu.pk
+16K-3625 		Sohla Mamoon			15		16K-3625@nu.edu.pk
+16K-3626 		Muteeb Matloob			23		16K-3626@nu.edu.pk
+16K-3627 		Nabeel Farooqui			21		16K-3167@nu.edu.pk
+16K-3628 		Muaaz Anwar			19		16K-3681@nu.edu.pk
+16K-3629 		Ammar Mahmood			10		16K-3629@nu.edu.pk
+16K-3630 		Ahsan Ashraf			18		16K-3620@nu.edu.pk
+16K-3631 		Ubaid Ul Haq			17		16K-3611@nu.edu.pk
+16K-3632 		Hamza Younus			16		16K-3621@nu.edu.pk
+16K-3634 		Ali Ahmed			13		16K-3641@nu.edu.pk
+16K-3635 		Muzammil Sohail			21		16K-3651@nu.edu.pk
+16K-3636 		Bilal Ashfaq			22		16K-3661@nu.edu.pk
+16K-3637 		Arshad				23		16K-3671@nu.edu.pk
+16K-3638 		Hamza Khan			21		16K-3681@nu.edu.pk
+16K-3640 		Hira Kamal			34		16K-3601@nu.edu.pk
+16K-3641 		Amir Ali			31		16K-1621@nu.edu.pk
+16K-3643 		Anwar Afroz Pasha		23		16K-3621@nu.edu.pk	
+16K-3644 		Aymen Rizvi			21		16K-4621@nu.edu.pk
+16K-3645 		Radheem  Razi			12		16K-5621@nu.edu.pk
+16K-3646 		Arslan Ahmad			33		16K-6621@nu.edu.pk
+12K-1213 	        sajjad ali                      23              k12@nu.edu.pk
+k17-1111 	        11111                           13		k171111@nu.edu.pk
+19K-1213 	        djsfa                           221		asfjkjfkas
+16K-1234 	        shafat                          22		sh@dsafk
+
+
+

@@ -1,0 +1,32 @@
+ID NO   	  Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec    Total Fee    Remaining Fee
+
+
+16K-3621   	  Np   p    p    p    p    p    Np   Np   p    p    Np   p      8000 Rs        4000 Rs
+16K-3622   	  p    Np   p    p    Np   Np   p    p    p    Np   p    p      8000 Rs        4000 Rs
+16K-3623   	  p    p    Np   Np   p    p    Np   p    Np   Np   p    Np     6000 Rs        6000 Rs
+16K-3624   	  Np   Np   p    p    p    Np   p    p    Np   p    p    p      8000 Rs        4000 Rs
+16K-3625   	  p    Np   p    p    Np   Np   Np   Np   Np   Np   p    p      5000 Rs        7000 Rs
+16K-3626   	  p    p    p    p    p    p    Np   Np   Np   p    Np   p      8000 Rs        4000 Rs
+16K-3627   	  p    p    Np   p    Np   Np   Np   Np   p    p    Np   p      6000 Rs        6000 Rs
+16K-3628   	  Np   Np   Np   Np   p    Np   Np   p    p    Np   Np   Np     3000 Rs        9000 Rs
+16K-3629   	  p    Np   Np   p    p    Np   p    p    p    Np   p    Np     7000 Rs        5000 Rs
+16K-3630   	  Np   p    Np   Np   Np   p    p    Np   p    Np   Np   p      5000 Rs        7000 Rs
+16K-3631   	  p    p    Np   p    p    p    Np   p    p    p    Np   p      9000 Rs        3000 Rs
+16K-3632   	  Np   Np   p    Np   p    Np   p    Np   Np   Np   Np   Np     3000 Rs        9000 Rs
+16K-3634   	  Np   p    Np   Np   p    p    Np   p    Np   p    Np   Np     5000 Rs        7000 Rs
+16K-3635   	  p    p    p    Np   p    Np   p    p    Np   p    p    Np     8000 Rs        4000 Rs
+16K-3636   	  p    p    p    p    Np   p    Np   p    p    p    Np   p      9000 Rs        3000 Rs
+16K-3637   	  p    p    Np   Np   Np   p    Np   Np   p    Np   Np   Np     4000 Rs        8000 Rs
+16K-3638   	  p    p    Np   p    p    p    Np   p    p    p    Np   Np     8000 Rs        4000 Rs
+16K-3639   	  Np   p    Np   p    p    p    Np   Np   Np   Np   Np   p      5000 Rs        7000 Rs
+16K-3640   	  p    Np   p    p    p    Np   p    Np   Np   Np   p    p      7000 Rs        5000 Rs
+16K-3641   	  Np   p    p    Np   p    p    p    Np   Np   p    p    p      8000 Rs        4000 Rs
+16K-3643   	  Np   Np   Np   Np   Np   p    p    Np   Np   Np   p    Np     3000 Rs        9000 Rs
+16K-3644   	  p    Np   p    Np   p    p    p    p    p    p    Np   Np     8000 Rs        4000 Rs
+16K-3645   	  p    p    p    Np   Np   p    Np   Np   Np   Np   p    Np     5000 Rs        7000 Rs
+16K-3646   	  Np   Np   p    Np   p    p    p    Np   p    Np   Np   p      6000 Rs        6000 Rs
+12K-1213   	  Np   Np   p    Np   Np   Np   p    Np   Np   p    p    Np     4000 Rs        8000 Rs
+k17-1111   	  Np   p    p    Np   Np   Np   p    p    Np   Np   Np   Np     4000 Rs        8000 Rs
+19K-1213   	  p    Np   p    Np   p    Np   p    Np   Np   p    Np   p      6000 Rs        6000 Rs
+   	  p    Np   p    Np   Np   Np   Np   p    p    p    Np   Np     5000 Rs        7000 Rs
+   	

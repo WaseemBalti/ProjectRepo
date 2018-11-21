@@ -1,0 +1,25 @@
+Stud ID			Student Name                    Age                 Email ID
+
+15K-3636 		Suhaib Siddiqui    		17		15K-3136@nu.edu.pk       
+15K-3640 		Anas Ul Haq			16		15K-31236@nu.edu.pk
+16K-4018 		Waseem Ullah			12		15K-3236@nu.edu.pk
+16K-4019 		Sandeep Kumar			11		15K-3336@nu.edu.pk
+16K-4020 		Aroon Kumar			14		15K-3436@nu.edu.pk
+16K-4021 		Shumail Steve			17		15K-3536@nu.edu.pk
+16K-4022 		Rafay Uddin			11		15K-3636@nu.edu.pk
+16K-4023 		Anas Azhar			18		15K-3736@nu.edu.pk
+16K-4024 		Abdul Moiz  Yamin		20		15K-3836@nu.edu.pk
+16K-4025 		Muhammad Usama			21		15K-3936@nu.edu.pk
+16K-4026 		Okesh Kumar			13		15K-3036@nu.edu.pk
+16K-4027 		Abdus Sami			16		15K-1636@nu.edu.pk
+16K-4030 		Shameer Ahmad			10		15K-2636@nu.edu.pk
+16K-4031 		Sanif				11		15K-3636@nu.edu.pk
+16K-4032 		Talha Tirmizi			14		15K-4636@nu.edu.pk
+16K-4033 		Akif Hussain			16		15K-5636@nu.edu.pk
+16K-4034 		Sheeraz				15		15K-6636@nu.edu.pk
+16K-4047 		Kumail Ali			17		15K-7636@nu.edu.pk
+16K-4048 		Usama Iftikhar			19		15K-8636@nu.edu.pk
+16K-4049 		Awais Umrani			21		15K-9636@nu.edu.pk
+16K-4050 		Muhammad Imran			22		15K-1636@nu.edu.pk
+
+

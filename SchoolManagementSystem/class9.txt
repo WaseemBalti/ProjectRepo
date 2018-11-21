@@ -1,0 +1,19 @@
+Stud ID			Student Name                    Age                 Email ID
+
+15K-2185 		Ali Asim             		16		15K-1185@nu.edu.pk
+16K-3965 		Pawan Kumar			17		15K-2185@nu.edu.pk
+16K-3966 		Sanif  Momin			18		15K-3185@nu.edu.pk
+16K-3967 		Qaiser Hassan			19		15K-4185@nu.edu.pk
+16K-3968 		Anusha Sharmeen			21		15K-5185@nu.edu.pk
+16K-3969 		Shaheryar Ali			12		15K-6185@nu.edu.pk
+16K-3970 		Talha  Asif			24		15K-7185@nu.edu.pk
+16K-3971 		Bilal				23		15K-8185@nu.edu.pk
+16K-3972 		Mohammad Owais       		11		15K-9185@nu.edu.pk
+16K-3973 		Maham Shoaib			12		15K-0185@nu.edu.pk
+16K-3974 		Sohail Zia			14		15K-2285@nu.edu.pk
+16K-3975 		Muhammad Adnan			13		15K-2385@nu.edu.pk
+16K-3976 		Uneeb Ahmed Faridy		14		15K-2485@nu.edu.pk
+16K-3977 		Abdul Rehman			13		15K-2585@nu.edu.pk	
+16K-3978 		Ammar Gadit			22		15K-2685@nu.edu.pk
+16K-3979 		Shaheer Amin			11		15K-2785@nu.edu.pk
+16K-3980 		Muhammad Mujtaba		21		15K-2885@nu.edu.pk	

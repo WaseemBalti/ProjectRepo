@@ -1,0 +1,23 @@
+Stud ID			Student Name                    Age                Email ID
+
+16K-3914 		Athar Siddiqui     		10		16K-3114@nu.edu.pk       	
+16K-3915 		Wasay Masood			11		16K-3214@nu.edu.pk
+16K-3916 		Usman Sajjad			12		16K-3314@nu.edu.pk
+16K-3919 		Ammar Adeel			14		16K-3414@nu.edu.pk
+16K-3920 		Osama Ejaz			15		16K-3514@nu.edu.pk
+16K-3921 		Sauban  Usman			15		16K-3614@nu.edu.pk
+16K-3922 		Asad Ahmed Faruqi		16		16K-3714@nu.edu.pk
+16K-3923 		Nida Zehra			17		16K-3914@nu.edu.pk
+16K-3924 		Huzaifah Punjani		18		16K-3014@nu.edu.pk
+16K-3925 		Arsalan Humayun			19		16K-3911@nu.edu.pk	
+16K-3927 		Bisma Jamal			20		16K-3912@nu.edu.pk
+16K-3928 		Kisa Fatima Abidi		21		16K-3913@nu.edu.pk
+16K-3929 		Taimur Ali			22		16K-3914@nu.edu.pk
+16K-3930 		Ghazanfar Ali			23		16K-3915@nu.edu.pk
+16K-3931 		Abdul Samad Bhundi		24		16K-3916@nu.edu.pk
+16K-3932 		Adarsh				25		16K-3917@nu.edu.pk
+16K-3933 		Faseeh Gul			26		16K-3918@nu.edu.pk
+16K-3934 		Fareeha Sattar			27		16K-3919@nu.edu.pk
+16K-3936 		Fahad Hussain			28		16K-3910@nu.edu.pk
+16K-3937 		Taban Shaukat			29		16K-1914@nu.edu.pk
+16K-3938 		Mustafa Saleem			12		16K-2914@nu.edu.pk

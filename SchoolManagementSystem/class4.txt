@@ -1,0 +1,30 @@
+Stud ID			Student Name                    Age                Email ID
+
+15K-2307 		Mehdi Abbas        		10		15K-2317@nu.edu.pk          			          			
+16K-3705 		Doulat Singh  			11		15K-2327@nu.edu.pk
+16K-3706 		Murtaza Ali			13		15K-2337@nu.edu.pk	
+16K-3707 		Dawar Hasnain			14		15K-2347@nu.edu.pk
+16K-3709 		Vinay Lohana			25		15K-2357@nu.edu.pk
+16K-3710 		Hamza Ashfaq			16		15K-2367@nu.edu.pk
+16K-3711 		Abdul Rehman 	                15		15K-2377@nu.edu.pk
+16K-3712 		Mansoor Ullah 			27		15K-2387@nu.edu.pk
+16K-3713 		Aliakber			18		15K-2397@nu.edu.pk
+16K-3714 		Madni  Hussain			19		15K-2307@nu.edu.pk
+16K-3715 		Huzaifa Ashraf			10		15K-2107@nu.edu.pk
+16K-3716 		Asad Ullah			13		15K-1207@nu.edu.pk
+16K-3717 		Furqan				15		15K-2307@nu.edu.pk
+16K-3718 		Sooraj Kumar			16		15K-2407@nu.edu.pk
+16K-3719 		Ammad Rasool			24		15K-2507@nu.edu.pk
+16K-3720 		Shahdad Ali			15		15K-2607@nu.edu.pk
+16K-3721 		Shiza Azam			16		15K-2707@nu.edu.pk
+16K-3722 		Sarah Ahmed			17		15K-2807@nu.edu.pk
+16K-3723 		Nabeel Farooq			17		15K-2907@nu.edu.pk
+16K-3724 		Fasih Zafar			18		15K-2007@nu.edu.pk
+16K-3725 		Jahanzeb Khan			12		15K-2301@nu.edu.pk
+16K-3726 		Ashar Ali			14		15K-2302@nu.edu.pk
+16K-3727 		Ali Asad			16		15K-2303@nu.edu.pk
+16K-3728 		Osama Abid			16		15K-2304@nu.edu.pk	
+16K-3729 		Rubab Zehra			18		15K-2305@nu.edu.pk
+16K-3730 		Osama Khan			19		15K-2306@nu.edu.pk
+16K-3731 		Khizer Mehmood			10		15K-2300@nu.edu.pk
+

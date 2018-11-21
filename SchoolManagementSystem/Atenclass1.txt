@@ -1,0 +1,38 @@
+
+
+							ATTENDANCE 
+
+
+ID NO   		1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30   Percentage
+
+16K-3621		P  L  L  A  A  P  A  A  L  A  A  P  L  P  L  A  L  P  A  A  P  A  A  P  L  P  P  L  A  P      50%
+16K-3622		L  A  P  P  A  L  A  P  A  P  L  P  L  P  A  P  L  L  A  P  A  A  P  P  L  A  L  L  L  L      50%
+16K-3623		A  P  L  P  A  A  P  A  L  L  P  L  P  L  P  P  L  A  A  L  L  L  L  P  P  P  L  L  L  A      50%
+16K-3624		A  L  L  A  A  P  L  A  A  L  L  L  A  L  L  L  L  A  A  A  P  P  L  A  P  P  A  A  A  L      25%
+16K-3625		A  L  A  A  A  A  P  P  P  L  L  P  L  A  L  P  P  L  A  P  A  L  P  L  L  L  P  L  P  A      50%
+16K-3626		L  A  A  P  P  A  L  A  L  P  L  A  P  A  A  P  A  A  L  A  P  L  A  P  L  P  L  P  L  L      45%
+16K-3627		A  P  A  L  L  P  L  A  A  A  A  P  P  L  P  A  P  P  A  P  P  P  L  A  L  L  A  L  L  P      55%
+16K-3628		L  L  L  A  L  A  L  L  L  L  A  P  L  A  L  A  P  L  A  A  L  P  L  P  L  L  A  L  P  P      30%
+16K-3629		A  P  A  P  P  P  P  A  L  P  A  P  L  P  P  L  A  L  L  A  A  L  P  L  A  L  A  A  L  P      55%
+16K-3630		A  L  A  L  P  L  L  L  L  A  A  L  L  L  L  A  L  A  L  A  A  A  L  A  L  L  P  L  A  P      15%
+16K-3631		A  P  A  L  L  P  P  P  A  L  A  A  A  A  P  L  L  L  A  L  L  A  P  P  L  P  L  P  P  A      50%
+16K-3632		L  P  P  A  P  P  A  P  L  P  L  A  L  P  A  A  P  A  A  A  P  A  P  A  P  A  A  L  P  P      65%
+16K-3634		P  L  P  A  P  P  L  P  L  L  L  P  L  A  L  A  A  L  A  P  L  P  L  L  P  L  L  L  L  L      45%
+16K-3635		A  P  A  P  P  A  P  A  A  L  A  A  A  P  L  A  L  P  A  A  L  A  A  P  P  A  A  L  A  L      40%
+16K-3636		P  L  P  L  P  L  A  A  L  L  L  P  P  A  P  P  A  P  P  P  A  L  L  A  P  A  A  A  A  L      55%
+16K-3637		P  L  P  L  L  A  A  A  A  L  P  P  P  P  A  A  A  A  L  A  A  A  A  P  L  A  A  L  P  A      40%
+16K-3638		P  L  A  A  P  A  L  P  P  L  A  L  P  L  A  P  P  A  P  P  A  L  A  L  A  P  L  A  P  A      55%
+16K-3640		L  A  A  A  A  L  P  P  P  A  P  L  L  L  A  L  L  A  P  L  L  P  A  A  P  P  A  A  A  L      40%
+16K-3641		P  L  L  A  A  A  A  L  P  A  P  A  L  L  A  P  L  A  L  A  L  L  P  A  P  P  A  L  P  P      45%
+16K-3643		L  A  A  A  L  P  P  P  L  P  L  L  A  A  L  P  A  P  L  L  L  L  P  P  L  L  P  P  L  A      50%
+16K-3644		L  A  P  A  L  P  A  L  L  P  P  L  P  P  L  P  A  P  A  L  P  A  L  P  A  L  P  P  P  L      65%
+16K-3645		L  A  P  P  P  L  P  L  P  P  P  A  L  P  A  A  P  P  A  A  A  L  P  P  A  A  L  A  A  L      60%
+16K-3646		A  P  P  L  A  P  L  A  L  P  L  L  L  P  L  L  A  A  A  A  L  A  P  A  A  A  P  L  P  A      40%
+12K-1213		A  P  P  L  A  L  A  L  A  A  A  L  A  L  P  A  L  L  P  P  L  A  A  A  L  A  L  A  P  A      30%
+k17-1111		L  A  L  A  P  P  A  A  L  A  A  P  L  A  L  L  A  P  P  A  P  P  A  L  L  P  L  A  P  A      45%
+19K-1213		L  L  P  P  L  A  A  A  A  P  L  A  L  P  P  A  L  L  P  P  A  L  L  P  L  A  L  L  A  A      40%
+16K-1234		P  A  L  A  L  A  P  A  A  A  P  A  P  L  L  L  L  A  L  L  L  A  L  A  P  P  A  P  A  P      40%
+		A  L  P  P  P  A  L  L  A  A  A  A  A  P  P  L  P  A  P  L  L  A  L  L  P  L  P  A  P  P      55%
+		L  P  P  P  A  L  P  L  P  A  L  P  A  P  P  P  A  P  A  P  A  L  L  P  P  A  A  A  P  A      70%
+		P  A  P  L  L  A  L  A  P  P  L  P  A  L  L  L  L  A  L  L  A  L  L  P  L  L  L  L  L  L      30%
+		

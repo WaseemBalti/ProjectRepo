@@ -1,0 +1,27 @@
+ID NO   	  Jan  Feb  Mar  Apr  May  Jun  Jul  Aug  Sep  Oct  Nov  Dec    Total Fee    Remaining Fee
+
+
+16K-3653   	  Np   p    p    p    p    p    p    Np   Np   Np   p    p      11200 Rs        5600 Rs
+16K-3654   	  Np   Np   Np   Np   p    Np   p    Np   Np   Np   p    p      5600 Rs        11200 Rs
+16K-3655   	  Np   p    Np   p    Np   p    p    p    p    Np   Np   p      9800 Rs        7000 Rs
+16K-3656   	  p    Np   p    p    p    Np   p    p    Np   p    Np   p      11200 Rs        5600 Rs
+16K-3657   	  p    p    p    p    p    Np   p    p    p    Np   Np   p      12600 Rs        4200 Rs
+16K-3658   	  p    p    Np   Np   p    p    p    p    Np   Np   p    p      11200 Rs        5600 Rs
+16K-3659   	  p    Np   p    p    p    p    p    Np   Np   Np   p    Np     9800 Rs        7000 Rs
+16K-3660   	  Np   p    Np   Np   Np   p    p    Np   Np   Np   Np   p      5600 Rs        11200 Rs
+16K-3661   	  p    p    p    p    p    Np   Np   Np   p    Np   Np   p      9800 Rs        7000 Rs
+16K-3662   	  Np   p    Np   Np   Np   Np   Np   p    Np   p    p    Np     5600 Rs        11200 Rs
+16K-3663   	  p    p    p    Np   Np   p    p    Np   p    p    Np   Np     9800 Rs        7000 Rs
+16K-3664   	  Np   Np   Np   Np   p    p    p    Np   p    p    Np   p      8400 Rs        8400 Rs
+16K-3665   	  Np   p    p    p    p    Np   p    p    Np   p    p    p      12600 Rs        4200 Rs
+16K-3666   	  Np   p    Np   Np   p    Np   Np   p    p    p    p    Np     8400 Rs        8400 Rs
+16K-3667   	  Np   p    Np   p    Np   Np   p    Np   p    Np   Np   Np     5600 Rs        11200 Rs
+16K-3668   	  Np   p    Np   p    Np   Np   Np   p    p    Np   p    p      8400 Rs        8400 Rs
+16K-3669   	  p    p    p    Np   p    p    Np   p    Np   p    Np   Np     9800 Rs        7000 Rs
+16K-3670   	  Np   p    Np   p    p    p    Np   Np   p    p    p    Np     9800 Rs        7000 Rs
+16K-3671   	  Np   Np   Np   Np   Np   Np   p    Np   p    p    p    p      7000 Rs        9800 Rs
+16K-3672   	  Np   p    p    p    p    Np   Np   p    p    p    p    Np     11200 Rs        5600 Rs
+16K-3673   	  p    Np   p    p    Np   Np   p    p    Np   Np   Np   Np     7000 Rs        9800 Rs
+16K-3674   	  Np   Np   p    p    Np   Np   Np   Np   p    p    Np   p      7000 Rs        9800 Rs
+14K-1123   	  Np   Np   Np   Np   Np   p    p    p    Np   Np   p    p      7000 Rs        9800 Rs
+   	

@@ -1,0 +1,25 @@
+15K-2331 		Yousuf Hasssan      		11		15K-2331@nu.edu.pk		 		   
+15K-3617 		Muhammad Hamza			12		15K-2317@nu.edu.pk
+16K-3653 		Haamiz Ahmed			23		15K-2353@nu.edu.pk
+16K-3654 		Issam Ahmed			14		15K-2354@nu.edu.pk
+16K-3655 		Ashhar Usman			26		15K-2355@nu.edu.pk
+16K-3656 		Rija Irfan			17		15K-2356@nu.edu.pk
+16K-3657 		Minhaj Siddiqui			23		15K-2357@nu.edu.pk
+16K-3658 		Shiza Najeeb			14		15K-2358@nu.edu.pk
+16K-3659 		Hera Ata			14		15K-2359@nu.edu.pk
+16K-3660 		Moonis Zahid			24		15K-2360@nu.edu.pk
+16K-3661 		Talha Qazi			19		15K-2361@nu.edu.pk
+16K-3662 		Omer Gohar			20		15K-2362@nu.edu.pk
+16K-3663 		Varisha Jabbar			22		15K-2363@nu.edu.pk
+16K-3664 		Taha Naveed			21		15K-2364@nu.edu.pk		
+16K-3665 		Saira Sohail Anwari		13		15K-2365@nu.edu.pk
+16K-3666 		Farrukh Mubashir		14		15K-2366@nu.edu.pk
+16K-3667 		Saad Samdani			16		15K-2367@nu.edu.pk
+16K-3668 		Umer Saleem			11		15K-2368@nu.edu.pk
+16K-3669 		Mohammad Ammar			18		15K-2369@nu.edu.pk
+16K-3670 		Nazneen Uz Zahra		19		15K-2370@nu.edu.pk		
+16K-3671 		Alina Hassan			20		15K-2371@nu.edu.pk
+16K-3672 		Osama Shahid			19		15K-2372@nu.edu.pk
+16K-3673 		Minhaj Zahid			10		15K-2373@nu.edu.pk
+16K-3674 		Muhammad Ali			21		15K-2374@nu.edu.pk
+14K-1123 	        1234                            32143		1344@nu.edu.pk

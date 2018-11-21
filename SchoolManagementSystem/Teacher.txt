@@ -1,0 +1,5 @@
+Name			Degree			Major			 Salary
+Kashif          	 MS              	 pst              	 50000
+kafi            	 phd             	 programming       	 200000
+Atika                    phd                     itc                     20
+shoib                    matric                  pot                     1
